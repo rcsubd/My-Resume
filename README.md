@@ -1,14 +1,15 @@
 RYAN CARRICO
-Sound & Audio Engineer | Producer | Digital Audio Consultant
+Senior Audio Engineer | Voice Production & Post-Production
+Professional Summary
 
-Professional Recording Artist and Producer with 35+ years of hands-on experience in sound engineering, artist development, and studio infrastructure.
-Technical Mastery
+Audio engineer and producer with more than 25 years of hands-on experience in sound production, restoration, mixing, mastering, studio construction, and complex audio systems. Experienced in preparing vocal material, identifying subtle audio defects, and preserving the natural character and quality of a performance.
+Technical Expertise
 
     DAWs: Nuendo, Reaper, Studio One, Cubase, Logic Pro
-    Restoration: Wavelab Pro, SpectraLayers
-    Infrastructure: Studio construction, acoustic treatment, and 1,000+ track signal routing
-    Specialization: AoIP (Audio over IP) digital systems
+    Restoration: Wavelab Pro, SpectraLayers, spectral editing, noise reduction, and artifact removal
+    Audio systems: Studio construction, acoustic treatment, signal routing, and 1,000+ track templates
+    Infrastructure: Audio over IP (AoIP), VST/AU systems, and MIDI workflow optimization
 
 Core Focus
 
-I specialize in the "pre-production" phase—using surgical tools to strip background noise and digital artifacts while preserving the natural human texture of the vocal. This ensures a versatile foundation for iterative AI modeling and high-end post-production.
+I specialize in preparing and refining vocal and musical material. My work includes removing background noise, clicks, pops, and other unwanted artifacts while preserving the natural texture and character of each performance. The goal is clean, flexible source audio that supports professional post-production, voice work, and further processing.
